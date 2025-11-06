@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Rodrigue N\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\Rodrigue N\\Desktop\\ConsoleApp1\\csharpcode\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodrigue N\\AppData\\Roaming\\NuGet\\NuGet.Config"
